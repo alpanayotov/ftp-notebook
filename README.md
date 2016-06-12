@@ -1,5 +1,2 @@
-# react-starter
-Simple react boilerplate
-
-`$ npm install`  
-`$ npm run dev`
+# FTP Notebook
+Simple FTP notebook with React and Firebase.
